@@ -3,8 +3,8 @@ title: "Comparison of map reading by teachers and students"
 author:
   - name: Marketa Beitlova
     affiliation: Palacký Univerity Olomouc, Czech Republic
-    email: marketa.beitlova01@upol.cz
-    orcid: 0000-0000-0000-0000
+    email: marketa.beitlova@upol.cz
+    orcid: 0000-0002-3935-5824
 abstract: |
    I am investigating map reading of students and their teachers using eye-tracking and I am comparing their reading strategies.
 output:
