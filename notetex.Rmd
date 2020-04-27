@@ -1,27 +1,19 @@
 ---
-title: "Agile phd school"
-author: "Marketa Beitlova"
-date: "28 11 2019"
-output: html_document
+title: "Comparison of map reading by teachers and students"
+author:
+  - name: Marketa Beitlova
+    affiliation: Palacký Univerity Olomouc, Czech Republic
+    email: marketa.beitlova01@upol.cz
+    orcid: 0000-0000-0000-0000
+abstract: |
+   I am investigating map reading of students and their teachers using eye-tracking and I am comparing their reading strategies.
+output:
+  ceurticles::twocolpceurws_article
+bibliography: samplebib.bib
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
-## R Markdown
-
-Name: Marketa Beitlova
-
-University: Palacký Univerity Olomouc
-
-Country: Czech Republic
-
-**Title of the PhD thesis:**
- 
- Comparison of map reading by teachers and students
- 
-**Motivation:**
+## Motivation
 
 In my Ph.D. thesis, I am investigating map reading of students and their teachers using eye-tracking and I am comparing their reading strategies. Eye-tracking is a technology that allows the recording of the human gaze. It is widely used in many fields of research, including GIS and cartography. Eye-tracking data is spatial-temporal data because eye movements are recorded over time in relation to space (screen or map).
 
